@@ -1,0 +1,34 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+  "default_line_ending": "unix",
+  "ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns":
+  [
+    "tmp",
+    "dist",
+    "node_modules",
+    "bower_components",
+    "/tmp",
+    "/dist",
+    ".git",
+    ".bundle",
+    "git",
+    "git",
+    "/coverage",
+    "coverage",
+    "packs",
+    "/packs",
+    "/vendor",
+    "vendor"
+  ],
+  "font_size": 14,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "save_on_focus_lost": true,
+  "show_full_path": true,
+  "tab_size": 2,
+  "theme": "Default.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
